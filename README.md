@@ -1,10 +1,10 @@
-# node-id3
+# ioq3-rcon
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/zazama/ioq3-rcon?style=flat-square)
 ![Travis (.org)](https://img.shields.io/travis/zazama/ioq3-rcon?style=flat-square)
 ![npm](https://img.shields.io/npm/dt/ioq3-rcon?style=flat-square)
 
-IOQ3Rcon is a library for Urban Terror RCON protocol with some parsing functionality.
+ioq3-rcon is a library for Urban Terror RCON protocol with some parsing functionality.
 
 ## Installation
 ```
@@ -105,7 +105,7 @@ client.getVarValue('g_gravity').then((result) => {
 
 
 ## Throttling / Chaining commands
-Please be aware that due to IOQ3 rate limiting, you should chain your commands instead of executing them at the same time.
+Please be aware that due to ioq3 rate limiting, you should chain your commands instead of executing them at the same time.
 
 ### Option 1: await
 ```javascript
