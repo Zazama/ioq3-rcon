@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zazama/IOQ3Rcon.git"
+    "url": "git+https://github.com/Zazama/ioq3-rcon.git"
   },
   "author": "Jan Metzger <jan.metzger@gmx.net> (https://zazama.de)",
   "keywords": [
