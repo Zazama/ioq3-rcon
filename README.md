@@ -8,7 +8,7 @@ ioq3-rcon is a library for Urban Terror RCON protocol with some parsing function
 
 ## Installation
 ```
-not yet uploaded
+npm install ioq3-rcon
 ```
 
 ## Usage
